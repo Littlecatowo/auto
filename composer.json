@@ -1,0 +1,15 @@
+{
+    "name": "tobyt/auto",
+    "autoload": {
+        "psr-4": {
+            "Tobyt\\Auto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Littlecatowo",
+            "email": "tobytw3@gmail.com"
+        }
+    ],
+    "require": {}
+}
