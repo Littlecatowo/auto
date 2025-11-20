@@ -2,7 +2,7 @@
     "name": "tobyt/auto",
     "autoload": {
         "psr-4": {
-            "Tobyt\\Auto\\": "src/"
+            "Demo\\": "./src/Demo"
         }
     },
     "authors": [
